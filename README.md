@@ -32,7 +32,7 @@ python -m venv .venv
 Install Jupyter and any other dependencies:
 
 ```sh
-pip install notebook ipykernel pandas requests
+pip install notebook ipykernel pandas requests matplotlib
 ```
 
 ## 4. Add the Virtual Environment as a Jupyter Kernel
